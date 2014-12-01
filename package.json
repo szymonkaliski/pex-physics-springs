@@ -1,0 +1,19 @@
+{
+  "name": "pex-physics-springs",
+  "version": "0.0.1",
+  "description": "Simple spring physics for Pex library, working with floats, Vec2, and Vec3.",
+  "keywords": [
+    "pex",
+    "physics",
+    "spring",
+    "springs"
+  ],
+  "homepage": "https://github.com/szymonkaliski/pex-physics-springs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szymonkaliski/pex-physics-springs.git"
+  },
+  "main": "index.js",
+  "author": "Szymon Kaliski <contact@treesmovethemost.com>",
+  "license": "ISC"
+}
