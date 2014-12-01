@@ -32,7 +32,7 @@ Window.create({
 
     this.on("mouseMoved", function(event) {
       this.position.setTarget(event.y);
-    });
+    }.bind(this));
   },
 
   draw: function() {
